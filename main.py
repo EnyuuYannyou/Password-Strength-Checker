@@ -2,7 +2,6 @@ import string
 from pathlib import Path
 import streamlit as st
 from st_keyup_custom import st_keyup
-# cd "C:\Users\KP\OneDrive\Desktop\Python\Projects\Password Strength Checker"
 
 # Check if user inputs a common password
 @st.cache_data
