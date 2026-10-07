@@ -1,12 +1,11 @@
 # Password Strength Checker
 
-https://password-strength-checker-mhwmtmvg3nhlfouqhgjefk.streamlit.app/ <-- Link
 
 A Python tool that checks password strength and gives users specific
 feedback to improve weak passwords — built to understand how real attackers
 guess/crack passwords and how to defend against it.
 
-🔗 **Live demo:** [add your Streamlit Cloud link here once deployed]
+🔗 **Live demo:** https://password-strength-checker-mhwmtmvg3nhlfouqhgjefk.streamlit.app/
 
 ## What it does
 
